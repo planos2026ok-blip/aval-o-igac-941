@@ -1,0 +1,22 @@
+{
+  "overview": "A single Spanish-language web app that consolidates the IGAC Resolución 941 de 2026 appraisal rules into one interactive report, with urban and rural appraisal calculators and a one-click project export.",
+  "features": [
+    "Structured report of Resolución IGAC 941 de 2026 with principles, the four valuation methods and step-by-step formulas",
+    "Complete Ross-Heideck coefficient table reproduced exactly as in the technical annex",
+    "Urban appraisal calculator covering market, income, cost (Ross-Heideck) and residual techniques",
+    "Rural agricultural appraisal calculator using land-rent capitalization",
+    "Worked urban and rural examples solved step by step",
+    "Exportar Proyecto button that downloads a full report with inputs, formulas and results",
+    "Print or PDF output for the appraisal memorandum"
+  ],
+  "category": "tool",
+  "tags": [
+    "real-estate",
+    "appraisal",
+    "colombia",
+    "igac",
+    "calculator",
+    "report"
+  ],
+  "last_updated": "2026-09-17T21:30:12.124Z"
+}
